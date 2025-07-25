@@ -11,42 +11,6 @@ A comprehensive dashboard for analyzing stock market data, calculating technical
 - 📤 **Export Functionality**: Download data as CSV or analysis reports
 - 📱 **Responsive UI**: User-friendly interface built with Streamlit
 
-## Project Structure
-
-```
-Stock_Analysis/
-├── data/                  # Data storage and cache
-├── src/                   # Source code
-│   ├── data/              # Data fetching and processing modules
-│   ├── indicators/        # Technical indicator calculations
-│   ├── visualization/     # Chart generation and plotting functions
-│   └── utils/             # Utility functions and helpers
-├── dashboard/             # Streamlit dashboard files
-├── tests/                 # Test files
-├── config/                # Configuration files
-├── requirements.txt       # Project dependencies
-└── README.md              # Project documentation
-```
-
-## Quick Start
-
-### Option 1: Automated Setup (Recommended)
-```bash
-# Check project health (optional)
-python3 check_project.py
-
-# Run with automatic setup
-python3 run_dashboard.py
-```
-
-### Option 2: Manual Setup
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the dashboard
-streamlit run dashboard/app.py
-```
 
 ## Installation Requirements
 
