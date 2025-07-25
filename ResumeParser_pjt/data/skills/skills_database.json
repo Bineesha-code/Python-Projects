@@ -1,0 +1,43 @@
+{
+  "programming_languages": [
+    "Python", "JavaScript", "Java", "C++", "C#", "C", "PHP", "Ruby", "Go", "Rust",
+    "Swift", "Kotlin", "TypeScript", "Scala", "R", "MATLAB", "Perl", "Shell", "Bash",
+    "PowerShell", "SQL", "HTML", "CSS", "XML", "JSON", "YAML"
+  ],
+  "frameworks": [
+    "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask",
+    "FastAPI", "Spring Boot", "Laravel", "Ruby on Rails", "ASP.NET", "jQuery",
+    "Bootstrap", "Tailwind CSS", "Material-UI", "Next.js", "Nuxt.js", "Svelte",
+    "Electron", "React Native", "Flutter", "Xamarin", "Ionic"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle", "SQL Server",
+    "Redis", "Cassandra", "DynamoDB", "Firebase", "Supabase", "MariaDB",
+    "CouchDB", "Neo4j", "InfluxDB", "Elasticsearch"
+  ],
+  "tools": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "Docker", "Kubernetes", "Jenkins",
+    "Travis CI", "CircleCI", "AWS", "Azure", "Google Cloud", "Heroku", "Vercel",
+    "Netlify", "Terraform", "Ansible", "Vagrant", "Webpack", "Vite", "Gulp",
+    "Grunt", "npm", "yarn", "pip", "Maven", "Gradle", "VS Code", "IntelliJ",
+    "Eclipse", "Sublime Text", "Atom", "Vim", "Emacs"
+  ],
+  "soft_skills": [
+    "Leadership", "Communication", "Teamwork", "Problem Solving", "Critical Thinking",
+    "Time Management", "Project Management", "Agile", "Scrum", "Kanban",
+    "Public Speaking", "Presentation", "Negotiation", "Mentoring", "Training",
+    "Documentation", "Technical Writing", "Research", "Analysis", "Planning"
+  ],
+  "certifications": [
+    "AWS Certified", "Azure Certified", "Google Cloud Certified", "Certified Kubernetes",
+    "PMP", "Scrum Master", "Product Owner", "CISSP", "CISM", "CompTIA Security+",
+    "Certified Ethical Hacker", "CCNA", "CCNP", "CCIE", "Oracle Certified",
+    "Microsoft Certified", "Salesforce Certified", "Tableau Certified"
+  ],
+  "data_science": [
+    "Machine Learning", "Deep Learning", "Neural Networks", "TensorFlow", "PyTorch",
+    "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
+    "Jupyter", "Data Analysis", "Data Visualization", "Statistics", "NLP",
+    "Computer Vision", "Big Data", "Hadoop", "Spark", "Kafka"
+  ]
+}
