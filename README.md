@@ -1,2 +1,2 @@
 # Python-Projects
-Smart REsume parser and Stock Analysis Dashboard projects
+Smart Resume parser and Stock Analysis Dashboard projects
